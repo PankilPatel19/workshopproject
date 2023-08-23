@@ -1,0 +1,28 @@
+*{
+    background-color: lightgray;}
+    .text{
+        text-align: center;
+
+    }
+    table {
+        width: 50%;
+        border-collapse: collapse;
+        margin: 0 auto;
+    }
+
+    table, th, td {
+        border: 3px solid black;
+        background-color: white;
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: center;
+    }
+    .lab{
+
+        background-color: yellow;
+    }
+    .plab{
+        background-color: yellow;
+    }
